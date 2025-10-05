@@ -1,7 +1,7 @@
 package tp2packages;
 import java.util.Scanner;
 
-public class Suite {
+public class Ex1 {
 	 public static void main(String[] args) {
 	        Scanner sc = new Scanner(System.in);
 
