@@ -21,3 +21,6 @@ Exercice 8 :
 
 Exercice 9 :
 ![image alt](https://github.com/laouysalma/Tp2Java/blob/main/Exercice9Java.png?raw=true)
+
+Exercice 10 :
+![image alt](https://github.com/laouysalma/Tp2Java/blob/main/Ex10.png?raw=true)
